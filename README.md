@@ -2,4 +2,4 @@
 Arch Linux - bspwm - dotfiles
 
 
-test
+
